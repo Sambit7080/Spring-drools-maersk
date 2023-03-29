@@ -1,8 +1,0 @@
-<kbase name="template_KBase" packages="KieRule">
-    <ruleTemplate
-        dTable="Order.xls"
-        template="order.drt"
-        row="2"
-        col="1"/>
-    <ksession name="templateKsession"/>
-</kbase>
